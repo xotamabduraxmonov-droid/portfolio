@@ -1,6 +1,6 @@
 import { useLanguage } from '../../context/LanguageContext'
 
-import game1Img from '../../images/game1.png'
+import game1Img from '../../images/temp.png'
 import mountainsImg from '../../images/mountains.png'
 import parfumeImg from '../../images/parfume.jpg'
 import porscheImg from '../../images/porsche.png'
