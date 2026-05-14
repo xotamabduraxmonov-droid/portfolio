@@ -1,10 +1,10 @@
 import { useLanguage } from '../../context/LanguageContext'
 
-import game1Img from '../../images/game1.png'
+import game1Img from '../../images/Game1.png'
 import mountainsImg from '../../images/Parfume.jpg'
 import parfumeImg from '../../images/Mountains.png'
-import porscheImg from '../../images/porsche.png'
-import routerImg from '../../images/react-router.png'
+import porscheImg from '../../images/Porsche.png'
+import routerImg from '../../images/React-router.png'
 import todoImg from '../../images/To-Do.png'
 
 import './Projects.scss'
