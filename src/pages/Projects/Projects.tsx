@@ -1,11 +1,11 @@
 import { useLanguage } from '../../context/LanguageContext'
 
 import game1Img from '../../images/temp.png'
-import mountainsImg from '../../images/mountains.png'
-import parfumeImg from '../../images/parfume.jpg'
-import porscheImg from '../../images/porsche.png'
-import routerImg from '../../images/react-router.png'
-import todoImg from '../../images/todo.png'
+import mountainsImg from '../../images/temp4.jpg'
+import parfumeImg from '../../images/temp5.png'
+import porscheImg from '../../images/temp3.png'
+import routerImg from '../../images/temp2.png'
+import todoImg from '../../images/temp6.png'
 import './projects.scss'
 const Projects = () => {
 
