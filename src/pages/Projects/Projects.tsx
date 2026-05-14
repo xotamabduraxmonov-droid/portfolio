@@ -7,7 +7,7 @@ import porscheImg from '../../images/porsche.png'
 import routerImg from '../../images/react-router.png'
 import todoImg from '../../images/To-Do.png'
 
-import './projects.scss'
+import './Projects.scss'
 
 const Projects = () => {
 

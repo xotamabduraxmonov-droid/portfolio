@@ -1,6 +1,6 @@
 import { useLanguage } from '../../context/LanguageContext'
 
-import './contacts.scss'
+import './Сontacts.scss'
 
 const Contacts = () => {
 

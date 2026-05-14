@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 import { useLanguage } from '../../context/LanguageContext'
 
-import './home.scss'
+import './Home.scss'
 
 import myPhoto from '../../images/me.png'
 

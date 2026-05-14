@@ -1,6 +1,6 @@
 import { useLanguage } from '../../context/LanguageContext'
 
-import './about.scss'
+import './About.scss'
 
 const About = () => {
 
